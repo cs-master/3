@@ -1,0 +1,332 @@
+    1  ls
+    2  ls /home/
+    3  ls /home/cislocal/
+    4  mysql
+    5  mysql -u root -p
+    6  ls
+    7  exit
+    8  ls
+    9  exit
+   10  ls
+   11  sudo
+   12  cd ../
+   13  ls
+   14  mkdir ra
+   15  sudo mkdir ra
+   16  cd ra
+   17  ls
+   18  git
+   19  git clone http://gitlab.ccec.unf.edu/xudongliuUNF/LearnPLPTreePythonInterface.git
+   20  git clone http://gitlab.ccec.unf.edu/xudongliuUNF/LearnPLPTreePythonInterface.git
+   21  sudo git clone http://gitlab.ccec.unf.edu/xudongliuUNF/LearnPLPTreePythonInterface.git
+   22  id
+   23  ls -l /etc/sudoers
+   24  sudo adduser n01379018 root
+   25  cat /etc/sudoers
+   26  grup 
+   27  sudo -v
+   28  sudo -l
+   29  groups n01379018
+   30  cd ../../
+   31  ls
+   32  cd var
+   33  ls
+   34  chmod -R 777 /www
+   35  chmod -R 777 www
+   36  sudo chmod -R 777 www
+   37  sudo chmod -R 777 www/
+   38  cd www/html
+   39  ls
+   40  sudo chmod 777 index.html
+   41  cd ../../
+   42  ls
+   43  cd ../../
+   44  ls
+   45  cd ra
+   46  ls
+   47  cd ../
+   48  sudo chmod 777 ra
+   49  del ra
+   50  rm ra
+   51  sudo rm ra
+   52  sudo rm /ra/
+   53  sudo rm /ra
+   54  sudo mkdir -m 777 RA
+   55  rm -r ra
+   56  sudo rm -r ra
+   57  cd RA
+   58  sudo git clone http://gitlab.ccec.unf.edu/xudongliuUNF/LearnPLPTreePythonInterface.git
+   59  python -v
+   60  which python
+   61  python -V
+   62  pip
+   63  sudo apt install python-pip
+   64  sudo pip install django
+   65  python -m pip install "django<2"
+   66  pip install --upgrade pip
+   67  python -m pip install "django<2"
+   68  mysql -u root -p
+   69  445#WWW#767 > mysql.txt
+   70  echo 445#WWW#767 > mysql.txt
+   71  mkdir -m 777 ra
+   72  mkdir ra
+   73  cd ../
+   74  mkdir -m 777 ra
+   75  mkdir build
+   76  cd build
+   77  cmake ..
+   78  apt-get cmake
+   79  apt-get install cmake
+   80  sudo apt-get install cmake
+   81  cmake ..
+   82  pip install pytest
+   83  sudo pip install pytest
+   84  cmake ..
+   85  sudo /usr/bin/python3.5 -m pip install pytest
+   86  sudo cmake ..
+   87  sudo make check -j 4
+   88  sudo cmake ..
+   89  sudo pip install pytest
+   90  sudo cmake ..
+   91  restart
+   92  ls
+   93  cd ../
+   94  ls
+   95  LS
+   96  ls
+   97  cd ../
+   98  ls
+   99  cd home/
+  100  ls
+  101  cd n01379018/
+  102  ls
+  103  /sbin/shutdown -r now
+  104  sudo /sbin/shutdown -r now
+  105  cd ../../
+  106  cd ../
+  107  cd /RA/LearnPLPTreePythonInterface/django
+  108  cd mysite
+  109  ls
+  110  python manage runserver
+  111  python manage.py runserver
+  112  pip install numpy
+  113  sudo pip install numpy
+  114  passwd
+  115  sudo pip install pandas
+  116  ls
+  117  clear
+  118  python manage.py runserver
+  119  python manage.py makemigrations
+  120  sudo python manage.py makemigrations
+  121  whoami
+  122  hostname
+  123  sudo python manage.py makemigrations
+  124  python manage.py runserver
+  125  sudo python manage.py migrate
+  126  clear
+  127  sudo python manage.py migrate
+  128  sudo python manage.py makemigrations
+  129  cd ../../
+  130  ls
+  131  make
+  132  sudo python manage.py makemigrations
+  133  make
+  134  sudo apt-get update
+  135  sudo apt-get -y install python3-pip
+  136  make
+  137  sudo make
+  138  cmake ..
+  139  /usr/bin/python3.5 -m pip install pytest
+  140  cmake ..
+  141  pip install --upgrade pip
+  142  cmake ..
+  143  make check -j 4
+  144  make
+  145  cd mysite
+  146  ls
+  147  cd django/mysite
+  148  python manage.py runserver
+  149  exit
+  150  ls
+  151  cd LearnPLPTreePythonInterface/
+  152  make
+  153  python
+  154  sudo pip install python-dev
+  155  sudo apt-get install python-dev
+  156  sudo apt-get install python3-dev
+  157  exit
+  158  pip install numpy
+  159  sudo apt-get install python-dev
+  160  sudo apt-get install python3-dev
+  161  ls
+  162  cd pybind11/
+  163  cd build/
+  164  cmake ..
+  165  make checl -j 4
+  166  make check -j 4
+  167  sudo apt-get install numpy
+  168  sudo pip install numpy
+  169  cmake ..
+  170  cd ../../
+  171  ;s
+  172  ls
+  173  cd LearnPLPTreePythonInterface/
+  174  make
+  175  exit
+  176  sudo rm -r RA
+  177  netstat -tulpn | grep :80
+  178  python -m django --version
+  179  django-admin startproject mysite
+  180  sudo apt install python-django-common
+  181  ls
+  182  django-admin startproject mysite
+  183  sudo apt install python-django-common
+  184  sudo django-admin startproject mysite
+  185  sudo apt install python-django
+  186  python -m django --version
+  187  sudo django-admin startproject mysite
+  188  ls
+  189  cd mysite/
+  190  python manage.py runserver
+  191  python manage.py startapp polls
+  192  sudo python manage.py startapp polls
+  193  sudo python manage.py runserver
+  194  sudo python manage.py runserver 80
+  195  sudo service nginx stop
+  196  sudo service apache2 stop
+  197  sudo python manage.py runserver 80
+  198  sudo python manage.py runserver
+  199  cd LearnPLPTreePythonInterface/
+  200  make
+  201  cd test/
+  202  python test.py
+  203  python test_moussa.py
+  204  python test.py
+  205  cd ../
+  206  ls
+  207  cd django/mysite/
+  208  ls
+  209  python manage.py runserver
+  210  cd ../../
+  211  ls
+  212  python leaenCICP.py
+  213  python learnCICP.py
+  214  cd test/
+  215  python learnCICP.py
+  216  cd ../
+  217  cd django/mysite/
+  218  python manage.py makemigrations
+  219  python manage.py migrate
+  220  python manage.py runserver 80
+  221  clear
+  222  cd python -m django --version
+  223  python manage.py runserver 
+  224  python makemigrations
+  225  python manage.py makemigrations
+  226  python manage.py runserver 
+  227  sudo service apache2 start
+  228  ls
+  229  cd LearnPLPTreePythonInterface/
+  230  ls
+  231  cd django/mysite/
+  232  python manage.py runserver 
+  233  python manage.py migrate
+  234  python manage.py make migratation
+  235  python manage.py makemigratation
+  236  python manage.py makemigratations
+  237  python manage.py makemigrations
+  238  python manage.py makemigration
+  239  python manage.py makemigrations
+  240  sudo ufw status verbose
+  241  sudo ufw allow 8000/tcp
+  242  sudo ufw status verbose
+  243  sudo ufw app list
+  244  nc -l 8000
+  245  nc -l 80
+  246  sudo nc -l 80
+  247  netstat -an 
+  248  netstat -an | grep 80
+  249  netstat -an | grep 8000
+  250  netstat -an | grep 80
+  251  sudo ufw allow 8000/tcp6
+  252  sudo ufw allow :::8000/tcp6
+  253  sudo ufw allow :::8000/tcp
+  254  nmap
+  255  sudo apt install nmap
+  256  iptables -L
+  257  sudo ufw allow 8000
+  258  cd Demo/
+  259  ls
+  260  cd mysite/
+  261  python manage.py runserver 
+  262  python manage.py check --deploy
+  263  python manage.py runserver 
+  264  python manage.py makemigrations
+  265  cd ../../
+  266  grep -R "Wrong user!" 
+  267  grep -R "Wrong user!" . 
+  268  cd mysite/
+  269  cd django/mysite/
+  270  python manage.py makemigrations
+  271  python manage.py runserver 
+  272  clear
+  273  python manage.py runserver 80
+  274  sudo python manage.py runserver 80
+  275  sudo /etc/init.d/apache2 stop
+  276  sudo python manage.py runserver 80
+  277  ifconfig
+  278  ipconfig
+  279  iwconfig
+  280  ifconfig
+  281  sudo apt-get install ifconfig
+  282  sudo apt-get install wireless-tools
+  283  ifconfig
+  284  sudo ifconfig
+  285  sudo /etc/init.d/apache2 start
+  286  python /home/n01379018/Demo/mysite/manage.py runserver
+  287  python /home/n01379018/Demo/mysite/manage.py runserver 0.0.0.0:8000
+  288  python /home/n01379018/Demo/mysite/manage.py runserver
+  289  cd Demo/mysite/
+  290  sudo python manage.py runserver
+  291  cd ../../
+  292  cd Demo/
+  293  ls
+  294  cd mysite/
+  295  ls
+  296  python manage.py makemigration
+  297  python manage.py makemigrations
+  298  python manage.py migrate
+  299  sudo python manage.py migrate
+  300  sudo python manage.py runserver
+  301  python /home/n01379018/LearnPLPTreePythonInterface/django/mysite/manage.py runserver
+  302  cd ../../
+  303  python /home/n01379018/LearnPLPTreePythonInterface/django/mysite/manage.py runserver
+  304  clear
+  305  sudo python /home/n01379018/LearnPLPTreePythonInterface/django/mysite/manage.py runserver
+  306  python /home/n01379018/LearnPLPTreePythonInterface/django/mysite/manage.py runserver
+  307  python /home/n01379018/LearnPLPTreePythonInterface/django/mysite/manage.py runservercl
+  308  clear
+  309  python /home/n01379018/Demo/mysite/manage.py runserver
+  310  ls
+  311  cd LearnPLPTreePythonInterface/django/mysite/
+  312  ls
+  313  python /home/n01379018/Demo/mysite/manage.py runserver 80
+  314  sudo python /home/n01379018/Demo/mysite/manage.py runserver 80
+  315  sudo /etc/init.d/apache2 stop
+  316  sudo python /home/n01379018/Demo/mysite/manage.py runserver 80
+  317  sudo python manage.py check --deploy
+  318  ls
+  319  sudo python manage.py makemigrations
+  320  sudo python manage.py migrate
+  321  sudo python manage.py collectstatic
+  322  sudo ufw allow 80
+  323  sudo iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+  324  runserver 0.0.0.0:80
+  325  sudo python manage.py runserver 0.0.0.0:80
+  326  sudo /etc/init.d/apache2 start
+  327  sudo /etc/init.d/apache2 restart
+  328  sudo python manage.py runserver 0.0.0.0:80
+  329  sudo /etc/init.d/apache2 stop
+  330  sudo python manage.py runserver 0.0.0.0:80
+  331  history
+  332  history > ~/history
